@@ -9,3 +9,4 @@ Sixth Choice: Approach Billy
 Seventh Choice: Talk to Billy directly
 Eighth Choice: Approach Danny
 Ninth Choice: Approach Helga and the Doctor
+Tenth Choice:  Listen in on what they're saying
