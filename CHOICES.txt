@@ -2,6 +2,6 @@ CHOICES
 
 First Choice: Stick with the PB & J
 Second Choice: Get to work helping
-Third Choice: ____
+Third Choice: Approach Danny
 Fourth Choice: ____
 Fifth Choice: ____
