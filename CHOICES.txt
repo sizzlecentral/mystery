@@ -1,7 +1,7 @@
 CHOICES
 
 First Choice: Stick with the PB & J
-Second Choice: ____
+Second Choice: Get to work helping
 Third Choice: ____
 Fourth Choice: ____
 Fifth Choice: ____
